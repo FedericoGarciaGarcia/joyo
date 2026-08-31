@@ -1,8 +1,8 @@
 {
   "name": "JLPT Kanji",
   "short_name": "JLPT Kanji",
-  "start_url": "/jlpt/",
-  "scope": "/jlpt/",
+  "start_url": "/joyo/",
+  "scope": "/joyo/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
