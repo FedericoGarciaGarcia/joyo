@@ -1,1 +1,0 @@
-import"../chunks/DYylrLtQ.js";import"../chunks/xihTtKlq.js";import{t as e}from"../chunks/CNaozwzu.js";import{t}from"../chunks/B2Lnp-Hh.js";function n(n){t(n,{get jlpt(){return e}})}export{n as component};
